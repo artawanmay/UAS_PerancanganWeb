@@ -1,0 +1,34 @@
+.header {
+    background-color:black;
+}
+.img-footer {
+    width: 2%;
+}
+
+.footer {
+    margin-top: 10%;
+    padding: 1%;
+    background-color:black;
+}
+
+.font {
+    color: white;
+}
+
+.img-circle {
+    width: 25%;
+}
+
+.background {
+    background-color:#F8F8F8;
+}
+.background-gif {
+    background-image: url("images/background.gif");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.shadow {
+    box-shadow: 5px 10px #888888;
+}
